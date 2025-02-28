@@ -1,3 +1,4 @@
+<div align="center"><a  href="https://app.daily.dev/saifullahlatki"><img src="https://api.daily.dev/devcards/v2/lbv30hvp01Dl881VPekwa.png?type=wide&r=l9z" width="652" alt="Saifullah Latki's Dev Card"/></a></div>
 <h1 align="center">Hi 👋, I'm Saifullah Latki</h1>
 <h3 align="center">A passionate developer!</h3>
 <!-- <img align="center" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/116554950?v=4" alt="my pic" /> -->
