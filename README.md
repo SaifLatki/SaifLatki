@@ -1,30 +1,92 @@
-<div align="center"><a  href="https://app.daily.dev/saifullahlatki"><img src="https://api.daily.dev/devcards/v2/lbv30hvp01Dl881VPekwa.png?type=wide&r=l9z" width="652" alt="Saifullah Latki's Dev Card"/></a></div>
+<div align="center">
+  <a href="https://app.daily.dev/saifullahlatki">
+    <img src="https://api.daily.dev/devcards/v2/lbv30hvp01Dl881VPekwa.png?type=wide&r=l9z" width="652" alt="Saifullah Latki's Dev Card"/>
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Saifullah Latki</h1>
-<h3 align="center">A passionate developer!</h3>
-<!-- <img align="center" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/116554950?v=4" alt="my pic" /> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaifLatki&label=Profile%20views&color=0e75b6&style=flat" alt="SaifLatki" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saifullahlatki" target="blank"><img src="https://img.shields.io/twitter/follow/saifullahlatki?logo=twitter&style=for-the-badge" alt="saifullahlatki" /></a> </p>
+<h3 align="center">Innovative Developer | Future Data Scientist | IT Visionary</h3>
 
-- 🌱 I’m currently learning **WEB dev, DSA, DBMS**
-
-- 💬 Ask me about **cpp, java, oop and python**
-
-- 📫 How to reach me **saifullahlatki338@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saifullahlatki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifullahlatki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saifullahlatki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifullahlatki" height="30" width="40" /></a>
-<a href="https://fb.com/saifullahlatki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifullahlatki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saif_latki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saif_latki" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaifLatki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/saifullahlatki" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/saifullahlatki?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/saifullahlatki" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-SaifullahLatki-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/saifullahlatki" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-SaifullahLatki-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="https://www.leetcode.com/saif_latki" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Saif_latki-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifLatki&show_icons=true&locale=en&layout=compact" alt="SaifLatki" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaifLatki&show_icons=true&locale=en" alt="SaifLatki" /></p>
+##  About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifLatki&" alt="SaifLatki" /></p>
+I am a driven developer and aspiring data scientist, committed to redefining the future of technology. My work combines a strong foundation in software engineering with a passion for data-driven innovation. I strive to deliver creative solutions that elevate IT standards and contribute to meaningful industry change.
+
+- **Current Focus:** Advancing my skills in web development,ML,DL, data structures & algorithms, and database management systems.
+- **Expertise:** C++, Java, Python, OOP, and modern programming paradigms.
+- **Collaboration:** Open to insightful conversations and impactful projects.
+- **Contact:** saifullahlatki338@gmail.com
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/saifullahlatki" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saifullahlatki" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/saifullahlatki" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/saif_latki" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Bootstrap"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" title="Figma"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" title="Google Cloud"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="SQL Server"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" title="Photoshop"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40" title="Adobe XD"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifLatki&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifLatki&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifLatki&" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <b>Empowering technology through data, vision, and creativity.</b>
+</p>
